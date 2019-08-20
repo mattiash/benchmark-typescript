@@ -11,8 +11,11 @@
     "devDependencies": {
         "@types/benchmark": "^1.0.31",
         "@types/node": "^12.7.2",
-        "benchmark": "^2.1.4",
         "prettier": "^1.18.2",
         "typescript": "^3.5.3"
+    },
+    "dependencies": {
+        "benchmark": "^2.1.4",
+        "pretty-ms": "^5.0.0"
     }
 }
